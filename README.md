@@ -1,11 +1,11 @@
 # CustomerChurnPrediction
 This project includes XGBoost algorithm, leveraging feature engineering to develop a predictive model with superior performance metric (recall) on unseen data.
 
-## Dataset:
+**Dataset:**
 Telco-Customer-Churn.csv
 
-## Coding Language:
+**Coding Language:**
 R
 
-## Platform: 
+**Platform:** 
 R Studio
