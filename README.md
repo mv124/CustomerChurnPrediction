@@ -6,3 +6,6 @@ Telco-Customer-Churn.csv
 
 ## Coding Language:
 R
+
+## Platform: 
+R Studio
